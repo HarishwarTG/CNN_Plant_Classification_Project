@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+*.h5 filter=lfs diff=lfs merge=lfs -text
+variables/* filter=lfs diff=lfs merge=lfs -text
+Z:/CNN_Crop_Classification/Notebook/plant_classification_tf/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+=======
+Notebook/plant_classification_tf filter=lfs diff=lfs merge=lfs -text
+Z:/CNN_Crop_Classification/Notebook/plant_classification_tf/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+>>>>>>> dd0bc61 (Update)

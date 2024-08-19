@@ -1,0 +1,13 @@
+langchain
+python-dotenv==1.0.0
+streamlit==1.22.0
+tiktoken==0.4.0
+protobuf~=3.19.0
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+datasets
+opencv-python
+scikit-learn
